@@ -1,0 +1,6 @@
+.gradio
+.ruff_cache
+.venv
+cache
+mozilla-foundation_common_voice_*
+openai_whisper-base*
